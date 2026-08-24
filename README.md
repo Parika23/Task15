@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents an end-to-end Exploratory Data Analysis (EDA) of a large hotel booking dataset to identify booking patterns, cancellation drivers, customer and market characteristics, and revenue-related trends.
+This project presents an end-to-end Exploratory Data Analysis (EDA) of a large hotel booking dataset to identify booking patterns, cancellation drivers, customer and market characteristics, and revenue related trends.
 
 The analysis focuses on transforming raw hotel booking data into meaningful business insights through systematic data quality assessment, preprocessing, statistical analysis, visualization, and business interpretation.
 
@@ -84,18 +84,18 @@ The analysis identifies key findings related to:
 - Hotel cancellation behavior
 - Booking lead time
 - Deposit policies
-- Market-segment performance
-- Hotel-type pricing and revenue patterns
+- Market segment performance
+- Hotel type pricing and revenue patterns
 
 ### 7. Management Recommendations
 
-The findings are translated into practical decision-making recommendations covering areas such as:
+The findings are translated into practical decision making recommendations covering areas such as:
 
 - Cancellation-risk management
 - Booking and deposit policies
 - Channel and segment management
 - Revenue and pricing strategy
-- Advance-booking management
+- Advance booking management
 - Customer retention
 - Operational planning
 
